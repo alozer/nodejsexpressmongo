@@ -37,3 +37,8 @@ Prerequisites
 
 * use nodetestcol (create nodetestcol collection)
 
+* npm start (command line)(this will start the application)
+
+* http://localhost:3000/newuser (add users)
+
+* http://localhost:3000/userlist (list users)

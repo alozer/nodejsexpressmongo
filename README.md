@@ -28,15 +28,18 @@ This project is a nodejs, express, MongoDB web application example.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisites
 
-git clone https://alozer1@gitlab.com/alozertry/nodejsexpressmongo.git
-cd nodejsexpressmongo
+* git clone https://alozer1@gitlab.com/alozertry/nodejsexpressmongo.git
+* cd nodejsexpressmongo
 
-npm install
+* -- this will install modules <br>
+  npm install
 
-npm start
+* -- this will start the application <br>
+  npm start
+
+* open http://localhost:3000/ from your browser.
 
 -- install mongodb to store data <br>
-
 Install mongodb from http://mongodb.org/. <br>
 
 -- change "C:\dev\nodejs" with your local directory <br>

@@ -48,3 +48,5 @@ Prerequisites
 
 * mongo (open mongo console)
 
+* use nodetestcol (create nodetestcol collection)
+

@@ -13,7 +13,7 @@ This project is a nodejs, express, MongoDB web application example.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisites
 
-* git clone https://alozer1@gitlab.com/alozertry/nodejsexpressmongo.git (command line)
+* git clone https://github.com/alozer/nodejsexpressmongo.git (command line)
 
 * cd nodejsexpressmongo (command line)
 

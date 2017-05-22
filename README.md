@@ -28,25 +28,23 @@ This project is a nodejs, express, MongoDB web application example.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisites
 
-* git clone https://alozer1@gitlab.com/alozertry/nodejsexpressmongo.git
-* cd nodejsexpressmongo
+* git clone https://alozer1@gitlab.com/alozertry/nodejsexpressmongo.git (command line)
 
-* -- this will install modules <br>
-  npm install
+* cd nodejsexpressmongo (command line)
 
-* -- this will start the application <br>
-  npm start
+* npm install (command line)(this will install modules)
+
+* npm start (command line)(this will start the application)
 
 * open http://localhost:3000/ from your browser.
 
--- install mongodb to store data <br>
-Install mongodb from http://mongodb.org/. <br>
+* Install mongodb from http://mongodb.org/.
 
--- change "C:\dev\nodejs" with your local directory <br>
-cd C:\Program Files\MongoDB\Server\3.4\bin <br>
-mongod --dbpath C:\dev\nodejs\nodejsexpressmongo\data\ <br>
+* cd C:\Program Files\MongoDB\Server\3.4\bin (command line)(change "C:\Program Files\MongoDB\Server\3.4\bin" with your local mongodb directory)
 
--- open mongo console <br>
-cd C:\Program Files\MongoDB\Server\3.4\bin <br>
-mongo <br>
+* mongod --dbpath C:\dev\nodejs\nodejsexpressmongo\data\ (command line)(change "C:\dev\nodejs" with your local application directory)
+
+* cd C:\Program Files\MongoDB\Server\3.4\bin (command line)
+
+* mongo (open mongo console)
 

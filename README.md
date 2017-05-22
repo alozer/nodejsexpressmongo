@@ -25,6 +25,8 @@ Prerequisites
 
 * open http://localhost:3000/ from your browser.
 
+* create a directory which name is "data" to your local application root folder.
+
 * Install mongodb from http://mongodb.org/.
 
 * cd C:\Program Files\MongoDB\Server\3.4\bin (command line)(change "C:\Program Files\MongoDB\Server\3.4\bin" with your local mongodb directory)

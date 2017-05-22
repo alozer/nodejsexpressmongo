@@ -15,7 +15,7 @@ npm start
 
 ## Nodejs Express Mongo Example
 
-This project is a nodejs, express, MongoDB application example. 
+This project is a nodejs, express, MongoDB web application example. 
 
 ## Contact
 #### Developer
@@ -28,9 +28,15 @@ This project is a nodejs, express, MongoDB application example.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisites
 
-git clone https://alozer1@gitlab.com/alozerapp/wsgenerator.git
-cd wsgenerator
+git clone https://alozer1@gitlab.com/alozertry/nodejsexpressmongo.git
+cd nodejsexpressmongo
 
 npm install
 
 npm start
+
+-- need to install mongodb to store data
+Install mongodb from http://mongodb.org/.
+
+-- change "C:\dev\nodejs" with your local directory 
+C:\Program Files\MongoDB\Server\3.4\bin mongod --dbpath C:\dev\nodejs\nodejsexpressmongo\data\ 

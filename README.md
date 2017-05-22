@@ -35,7 +35,7 @@ Prerequisites
 
 * mongo (open mongo console)
 
-* use nodetestdb (create nodetestcol collection)
+* use nodetestdb (create nodetestdb database)
 
 * npm start (command line)(this will start the application)
 

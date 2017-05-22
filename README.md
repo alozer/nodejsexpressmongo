@@ -1,5 +1,3 @@
-http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
-
 ## Nodejs Express Mongo Example
 
 This project is a nodejs, express, MongoDB web application example. 

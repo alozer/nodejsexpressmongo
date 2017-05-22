@@ -35,8 +35,8 @@ npm install
 
 npm start
 
--- need to install mongodb to store data
-Install mongodb from http://mongodb.org/.
+-- need to install mongodb to store data<br>
+Install mongodb from http://mongodb.org/.<br>
 
--- change "C:\dev\nodejs" with your local directory 
-C:\Program Files\MongoDB\Server\3.4\bin mongod --dbpath C:\dev\nodejs\nodejsexpressmongo\data\ 
+-- change "C:\dev\nodejs" with your local directory <br>
+C:\Program Files\MongoDB\Server\3.4\bin mongod --dbpath C:\dev\nodejs\nodejsexpressmongo\data\ <br>
